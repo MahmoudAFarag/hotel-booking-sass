@@ -221,8 +221,7 @@
   display: flex;
 
   &__photo {
-    width: 100%;
-    display: block;
+    flex: 0 0 33.33%;
   }
 }
 
