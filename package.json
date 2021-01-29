@@ -4,14 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel index.html",
-    "build": "parcel build index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahmoudAshraf25/hotel-booking-sass.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahmoudAshraf25/hotel-booking-sass/issues"
+  },
+  "homepage": "https://github.com/MahmoudAshraf25/hotel-booking-sass#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4",
-    "sass": "^1.32.5"
+    "imagemin": "^7.0.1",
+    "imagemin-webp": "^6.0.0"
   }
 }
