@@ -26,6 +26,8 @@
     flex-wrap: wrap;
     align-content: space-around;
     height: 11rem;
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
   }
 }
 
@@ -51,6 +53,7 @@
 }
 
 .details {
+  color: rgb(61, 58, 58);
   display: flex;
   font-size: 1.4rem;
   padding: 4.5rem;
